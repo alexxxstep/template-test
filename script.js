@@ -15,5 +15,5 @@ async function getQuote() {
   }
 }
 
-// On Load f
+// On Load
 getQuote()

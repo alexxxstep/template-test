@@ -64,7 +64,7 @@ button {
   padding: 0.5rem 1.8rem;
   box-shadow: 0 0.3rem rgba(128, 128, 128, 0.65);
 }
- 
+
 button:hover {
   filter: brightness(150%);
 }
@@ -81,7 +81,7 @@ button:active {
   font-size: 1.5rem;
 }
 
-/* Media Query: Tablet or Smaller */
+/* Media Query: Tablet or Smaller devices */
 @media screen and (max-width: 1000px) {
   .quote-container {
     margin: auto 10px;
